@@ -1,7 +1,9 @@
 package ouc.jeep.collection;
 
 import java.util.Scanner;
-
+/**
+ *  键盘输入 用户名 密码，三次判别 
+ */
 public class Register {
 
 	private static Scanner scan = new Scanner(System.in);

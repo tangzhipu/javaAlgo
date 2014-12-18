@@ -4,7 +4,6 @@ import java.util.Scanner;
 
 /**
  * 给定一个字符串统计,统计大写字母,小写字母,数字出现的个数.
- * 
  */
 
 public class Count {
